@@ -1,5 +1,3 @@
-#  00 Readme
-
 # E-Commerce Session Analysis & Data Integrity Audit   
 
 ### Executive Summary
