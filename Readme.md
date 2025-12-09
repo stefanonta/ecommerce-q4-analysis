@@ -1,5 +1,5 @@
 # E-Commerce Session Analysis & Data Integrity Audit   
-
+[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote.svg)](https://deepnote.com/workspace/PolData-40264208-503b-448c-a998-f4e7dbcd20de/project/Digital-Marketing-Optimization-4f991c85-a4f1-4651-91c2-0876d552a54d/notebook/Notebook-9c37f2feab6546e8aa92af9dbbd3eeaa?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=4f991c85-a4f1-4651-91c2-0876d552a54d)
 ### Executive Summary
 
 This project analyzes Q4 2016 web traffic data for the Google Merchandise Store. The primary objectives were to audit the raw dataset for integrity issues, specifically **timezone-based duplicate sessions**, and provide actionable recommendations to optimize marketing spend and user experience.
