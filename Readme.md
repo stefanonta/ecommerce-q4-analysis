@@ -26,7 +26,7 @@ This project analyzes Q4 2016 web traffic data for the Google Merchandise Store.
 
 *The critical "Mobile Gap": 24% of traffic but only 4.7% of revenue.*
 
-![92 Devices Performance.png](%2000%20Readme.assets/92%20Devices%20Performance.png)
+![92 Devices Performance.png](Analysis/Visualizations/92%20Devices%20Performance.png)
 
 
 
@@ -34,7 +34,7 @@ This project analyzes Q4 2016 web traffic data for the Google Merchandise Store.
 
 *This combo chart contrasts Volume (Revenue) vs. Efficiency (Conversion Rate). It highlights that while **Social** drives traffic, it fails to convert (0.2%), whereas **Referral** is highly efficient (6.4%), validating the recommendation to scale ad spend.*
 
-![93 Channels Performance.png](%2000%20Readme.assets/93%20Channels%20Performance.png)
+![93 Channels Performance.png](Analysis/Visualizations/93%20Channels%20Performance.png)
 
 ---
 
