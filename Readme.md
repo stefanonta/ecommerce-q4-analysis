@@ -18,7 +18,7 @@ This project analyzes Q4 2016 web traffic data for the Google Merchandise Store.
 
 *Traffic trends showing standard work-week spikes and weekend dips.*
 
-![91 Total Unique Session By DOW.png](%2000%20Readme.assets/91%20Total%20Unique%20Session%20By%20DOW.png)
+![91 Total Unique Session By DOW.png](Analysis/Visualizations/91%20Total%20Unique%20Session%20By%20DOW.png)
 
 
 
